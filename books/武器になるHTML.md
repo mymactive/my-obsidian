@@ -37,3 +37,17 @@
 
 ### dl & dt & dd
 
+- これらは知らなかった
+- dl = description list
+- dt = description list term
+- dd = definition of description
+- コード例はこんな感じ
+
+```html
+<dl>
+	<dt>Item 1</dt>
+	<dd>Item 1 is ...</dd>
+	<dt>Item 2</dt>
+	<dd>Item 2 is ...</dd>
+<dl/>
+```
