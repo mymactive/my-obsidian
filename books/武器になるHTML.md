@@ -133,3 +133,10 @@
 #### meta
 
 - `<meta name="description" content="紹介文">`でGoogleの検索結果の紹介欄が書ける
+- name="robots"でクローラーの制御ができる
+	- エラーページ、会員用サイトが使い道
+
+#### link
+
+- canonicalで正規のURLが指定される
+	- これによりpage rankの分散を防げたりするとのこと
