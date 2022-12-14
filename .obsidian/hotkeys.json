@@ -11,6 +11,14 @@
   "obsidian-git:pull": [
     {
       "modifiers": [
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
         "Mod",
         "Shift"
       ],
