@@ -130,3 +130,6 @@
 
 ### Chapter6 より良いページにしよう
 
+#### meta
+
+- `<meta name="description" content="紹介文">`でGoogleの検索結果の紹介欄が書ける
