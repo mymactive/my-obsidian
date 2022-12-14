@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/武器になるHTML.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/武器になるHTML.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/武器になるHTML.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/武器になるHTML.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   },
   "active": "10d06debcbf02867",
   "lastOpenFiles": [
-    "books/ベーシック圏論.md",
-    "books/武器になるHTML.md"
+    "books/武器になるHTML.md",
+    "books/ベーシック圏論.md"
   ]
 }

@@ -1,1 +1,4 @@
-# my-book-memo
+# my-obsidian
+
+Obsidianでメモったことを追記していくレポジトリ。
+主に自分が読んだ書籍のメモを取る予定。
