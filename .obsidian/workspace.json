@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Domain Modeling Made Functional.md",
+                "file": "books/武器になるHTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Domain Modeling Made Functional.md",
+                "file": "books/武器になるHTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Domain Modeling Made Functional.md",
+                "file": "books/武器になるHTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Domain Modeling Made Functional.md"
+                "file": "books/武器になるHTML.md"
               }
             }
           }
@@ -163,9 +163,9 @@
   },
   "active": "5b1eb4847d3b5363",
   "lastOpenFiles": [
+    "books/Domain Modeling Made Functional.md",
     "books/ベーシック圏論.md",
     "books/武器になるHTML.md",
-    "books/Domain Modeling Made Functional.md",
     "README.md"
   ]
 }
