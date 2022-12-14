@@ -88,5 +88,5 @@
 
 #### form
 
-- action="dialog"なるものがある
+- method="dialog"なるものがある
 	- フォームの送信を無効化し、dialogを閉じるというシンプルなもの
