@@ -125,3 +125,5 @@
 #### header & footer
 
 - articleのような独立した文書を提供する場合は、article内部でheader, footer要素を利用して良い
+	- 一つのHTML内でheader, footerが複数使えるのは目から鱗
+	- 文書構造を書き出すと考えれば、複数使えるのは自然なのだけど
