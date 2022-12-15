@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9746872883d66979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/ソフトウェア見積もり.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "52909b91344f601b",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/武器になるHTML.md",
+                "file": "books/ソフトウェア見積もり.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/武器になるHTML.md",
+                "file": "books/ソフトウェア見積もり.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/武器になるHTML.md"
+                "file": "books/ソフトウェア見積もり.md"
               }
             }
           }
@@ -158,14 +171,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5b1eb4847d3b5363",
+  "active": "9746872883d66979",
   "lastOpenFiles": [
+    "books/武器になるHTML.md",
     "books/Domain Modeling Made Functional.md",
     "books/ベーシック圏論.md",
-    "books/武器になるHTML.md",
     "README.md"
   ]
 }
