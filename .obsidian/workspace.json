@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/武器になるHTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9746872883d66979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "books/ソフトウェア見積もり.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "52909b91344f601b",
@@ -174,7 +161,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9746872883d66979",
+  "active": "5b1eb4847d3b5363",
   "lastOpenFiles": [
     "books/武器になるHTML.md",
     "books/Domain Modeling Made Functional.md",
