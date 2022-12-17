@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf514112637b68b0",
+        "id": "eae925d340502a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "0aae402defa36a32",
+            "id": "7ccdb4435d364587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/武器になるHTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10d06debcbf02867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/武器になるHTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b1eb4847d3b5363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/ソフトウェア見積もり.md",
+                "file": "books/ベーシック圏論.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "52909b91344f601b",
@@ -110,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/ソフトウェア見積もり.md",
+                "file": "books/ベーシック圏論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/ソフトウェア見積もり.md",
+                "file": "books/ベーシック圏論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/ソフトウェア見積もり.md"
+                "file": "books/ベーシック圏論.md"
               }
             }
           }
@@ -161,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b1eb4847d3b5363",
+  "active": "7ccdb4435d364587",
   "lastOpenFiles": [
+    "books/ソフトウェア見積もり.md",
     "books/武器になるHTML.md",
     "books/Domain Modeling Made Functional.md",
     "books/ベーシック圏論.md",
