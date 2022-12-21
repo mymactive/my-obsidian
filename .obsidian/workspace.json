@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/ベーシック圏論.md",
+                "file": "books/ソフトウェア見積もり.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e18e0af6fb25a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-12-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "52909b91344f601b",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/ベーシック圏論.md",
+                "file": "books/ソフトウェア見積もり.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/ベーシック圏論.md",
+                "file": "books/ソフトウェア見積もり.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/ベーシック圏論.md"
+                "file": "books/ソフトウェア見積もり.md"
               }
             }
           }
@@ -137,12 +148,25 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
   "active": "7ccdb4435d364587",
   "lastOpenFiles": [
+    "無題のファイル 1.canvas",
     "books/ソフトウェア見積もり.md",
+    "books/ベーシック圏論.md",
+    "2022-12-22.md",
+    "無題のファイル.canvas",
     "books/武器になるHTML.md",
     "books/Domain Modeling Made Functional.md",
-    "books/ベーシック圏論.md",
     "README.md"
   ]
 }
