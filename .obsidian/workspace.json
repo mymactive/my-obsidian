@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a10cf2319320161c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b1eb4847d3b5363",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "a10cf2319320161c",
   "lastOpenFiles": [
     "books/ソフトウェア見積もり.md",
     "2022-12-22.md",
