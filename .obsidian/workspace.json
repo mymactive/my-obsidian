@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "d8011f38177d6954",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "3e18e0af6fb25a5b",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "7ccdb4435d364587",
+  "active": "d8011f38177d6954",
   "lastOpenFiles": [
     "無題のファイル 1.canvas",
     "books/ソフトウェア見積もり.md",
