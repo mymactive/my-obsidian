@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/マスタリングLinuxシェルスクリプト.md",
+                "file": "books/単体テストの考え方・使い方.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/マスタリングLinuxシェルスクリプト.md",
+                "file": "books/単体テストの考え方・使い方.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/マスタリングLinuxシェルスクリプト.md",
+                "file": "books/単体テストの考え方・使い方.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/マスタリングLinuxシェルスクリプト.md"
+                "file": "books/単体テストの考え方・使い方.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "dadd83b5514e9e39",
   "lastOpenFiles": [
+    "books/マスタリングLinuxシェルスクリプト.md",
     "books/単体テストの考え方・使い方.md",
     "無題のファイル 1.canvas",
     "books/ソフトウェア見積もり.md",
