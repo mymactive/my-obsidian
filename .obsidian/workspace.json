@@ -42,6 +42,18 @@
             }
           },
           {
+            "id": "dadd83b5514e9e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/マスタリングLinuxシェルスクリプト.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3e18e0af6fb25a5b",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/単体テストの考え方・使い方.md",
+                "file": "books/マスタリングLinuxシェルスクリプト.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/単体テストの考え方・使い方.md",
+                "file": "books/マスタリングLinuxシェルスクリプト.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/単体テストの考え方・使い方.md"
+                "file": "books/マスタリングLinuxシェルスクリプト.md"
               }
             }
           }
@@ -176,8 +189,9 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "677bfb8f1bbe81bc",
+  "active": "dadd83b5514e9e39",
   "lastOpenFiles": [
+    "books/単体テストの考え方・使い方.md",
     "無題のファイル 1.canvas",
     "books/ソフトウェア見積もり.md",
     "books/ベーシック圏論.md",
