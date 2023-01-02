@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "cd29d3b53e3ca439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books/Unixの考え方.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3e18e0af6fb25a5b",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/単体テストの考え方・使い方.md",
+                "file": "books/Unixの考え方.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/単体テストの考え方・使い方.md",
+                "file": "books/Unixの考え方.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/単体テストの考え方・使い方.md"
+                "file": "books/Unixの考え方.md"
               }
             }
           }
@@ -189,9 +201,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "dadd83b5514e9e39",
+  "active": "cd29d3b53e3ca439",
   "lastOpenFiles": [
     "books/マスタリングLinuxシェルスクリプト.md",
+    "books/Unixの考え方.md",
     "books/単体テストの考え方・使い方.md",
     "無題のファイル 1.canvas",
     "books/ソフトウェア見積もり.md",
@@ -199,7 +212,6 @@
     "2022-12-22.md",
     "無題のファイル.canvas",
     "books/武器になるHTML.md",
-    "books/Domain Modeling Made Functional.md",
-    "README.md"
+    "books/Domain Modeling Made Functional.md"
   ]
 }

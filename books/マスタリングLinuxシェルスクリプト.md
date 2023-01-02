@@ -1,4 +1,4 @@
-#programming #Linux #shell #bash  
+#programming #Linux #shell #bash  #unix 
 
 ## 基本情報
 
